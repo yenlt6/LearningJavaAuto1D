@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="459c1634-d138-400f-b180-85160055f577" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/buoi12/Caculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/buoi12/ExampleJavaClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/buoi12/ReverseName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/buoi13/BaiTap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/buoi13/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/buoi13/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/buoi14/AgeCheckingException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/buoi14/ExceptionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/buoi14/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/buoi14/WeightCheckingException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/oneD/buoi12/CaculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/oneD/buoi12/ExampleJavaClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/oneD/buoi12/ReverseNameTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/oneD/buoi13/BaiTapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/oneD/buoi14/MainTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/oneD/buoi12/AssertExampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/oneD/buoi12/AssertExampleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/oneD/buoi12/AssertExampleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/oneD/buoi12/AssertExampleTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,29 +160,45 @@
       <option name="presentableId" value="Default" />
       <updated>1622547691492</updated>
     </task>
+    <task id="LOCAL-00001" summary="Bai hoc buoi 14 ( ngay 10/6)">
+      <created>1623293861721</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1623293861722</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Bai hoc buoi 14 ( ngay 10/6)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bai hoc buoi 14 ( ngay 10/6)" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="274" key="GridCell.Tab.0.bottom" timestamp="1623293730058">
+    <state x="4430" y="115" key="CommitChangelistDialog2" timestamp="1623293859553">
+      <screen x="3840" y="0" width="1920" height="1040" />
+    </state>
+    <state x="4430" y="115" key="CommitChangelistDialog2/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623293859553" />
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom" timestamp="1623293867259">
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1622548909917" />
-    <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623293730058" />
-    <state width="1877" height="274" key="GridCell.Tab.0.center" timestamp="1623293730058">
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623293867259" />
+    <state width="1877" height="274" key="GridCell.Tab.0.center" timestamp="1623293867258">
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1622548909917" />
-    <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623293730058" />
-    <state width="1877" height="274" key="GridCell.Tab.0.left" timestamp="1623293730058">
+    <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623293867258" />
+    <state width="1877" height="274" key="GridCell.Tab.0.left" timestamp="1623293867258">
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1622548909916" />
-    <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623293730058" />
-    <state width="1877" height="274" key="GridCell.Tab.0.right" timestamp="1623293730058">
+    <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623293867258" />
+    <state width="1877" height="274" key="GridCell.Tab.0.right" timestamp="1623293867258">
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1622548909917" />
-    <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623293730058" />
+    <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623293867258" />
     <state width="1877" height="412" key="GridCell.Tab.1.bottom" timestamp="1623121727594">
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
