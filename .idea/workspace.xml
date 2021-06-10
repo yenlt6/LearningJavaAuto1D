@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="459c1634-d138-400f-b180-85160055f577" name="Default Changelist" comment="" />
+    <list default="true" id="459c1634-d138-400f-b180-85160055f577" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/buoi12/Caculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/buoi12/ExampleJavaClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/buoi12/ReverseName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/buoi13/BaiTap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/buoi13/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/buoi13/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/buoi14/AgeCheckingException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/buoi14/ExceptionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/buoi14/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/buoi14/WeightCheckingException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/oneD/buoi12/CaculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/oneD/buoi12/ExampleJavaClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/oneD/buoi12/ReverseNameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/oneD/buoi13/BaiTapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/oneD/buoi14/MainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/oneD/buoi12/AssertExampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/oneD/buoi12/AssertExampleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/oneD/buoi12/AssertExampleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/oneD/buoi12/AssertExampleTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,13 +33,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/learningJava1D" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
@@ -35,17 +55,81 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="oneD.buoi14" />
+      <recent name="oneD.buoi13" />
       <recent name="oneD.buoi12" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="AssertExampleTest.testMethodInt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oneD.buoi14.Main" />
+      <module name="ProjectLearningAuto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oneD.buoi14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BaiTapTest.checkStandardName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProjectLearningAuto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oneD.buoi13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="oneD.buoi13" />
+      <option name="MAIN_CLASS_NAME" value="oneD.buoi13.BaiTapTest" />
+      <option name="METHOD_NAME" value="checkStandardName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProjectLearningAuto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oneD.buoi14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="oneD.buoi14" />
+      <option name="MAIN_CLASS_NAME" value="oneD.buoi14.MainTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProjectLearningAuto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oneD.buoi14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="oneD.buoi14" />
+      <option name="MAIN_CLASS_NAME" value="oneD.buoi14.MainTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseNameTest.assertReverseCorrectly" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProjectLearningAuto" />
       <extension name="coverage">
         <pattern>
@@ -54,8 +138,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="oneD.buoi12" />
-      <option name="MAIN_CLASS_NAME" value="oneD.buoi12.AssertExampleTest" />
-      <option name="METHOD_NAME" value="testMethodInt" />
+      <option name="MAIN_CLASS_NAME" value="oneD.buoi12.ReverseNameTest" />
+      <option name="METHOD_NAME" value="assertReverseCorrectly" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -63,7 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AssertExampleTest.testMethodInt" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="JUnit.MainTest.test2" />
+        <item itemvalue="JUnit.BaiTapTest.checkStandardName" />
+        <item itemvalue="JUnit.MainTest.test1" />
+        <item itemvalue="JUnit.ReverseNameTest.assertReverseCorrectly" />
       </list>
     </recent_temporary>
   </component>
@@ -93,9 +181,61 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2651" y="224" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1622547848905">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom" timestamp="1623293730058">
+      <screen x="3840" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1622548909917" />
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623293730058" />
+    <state width="1877" height="274" key="GridCell.Tab.0.center" timestamp="1623293730058">
+      <screen x="3840" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1622548909917" />
+    <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623293730058" />
+    <state width="1877" height="274" key="GridCell.Tab.0.left" timestamp="1623293730058">
+      <screen x="3840" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1622548909916" />
+    <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623293730058" />
+    <state width="1877" height="274" key="GridCell.Tab.0.right" timestamp="1623293730058">
+      <screen x="3840" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1622548909917" />
+    <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623293730058" />
+    <state width="1877" height="412" key="GridCell.Tab.1.bottom" timestamp="1623121727594">
+      <screen x="3840" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="412" key="GridCell.Tab.1.bottom/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623121727594" />
+    <state width="1877" height="412" key="GridCell.Tab.1.center" timestamp="1623121727594">
+      <screen x="3840" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="412" key="GridCell.Tab.1.center/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623121727594" />
+    <state width="1877" height="412" key="GridCell.Tab.1.left" timestamp="1623121727594">
+      <screen x="3840" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="412" key="GridCell.Tab.1.left/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623121727594" />
+    <state width="1877" height="412" key="GridCell.Tab.1.right" timestamp="1623121727594">
+      <screen x="3840" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="412" key="GridCell.Tab.1.right/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623121727594" />
+    <state x="4571" y="224" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1623288615266">
+      <screen x="3840" y="0" width="1920" height="1040" />
     </state>
     <state x="2651" y="224" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1622547848905" />
+    <state x="4571" y="224" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623288615266" />
+    <state x="4182" y="216" key="new project wizard" timestamp="1622603850859">
+      <screen x="3840" y="0" width="1920" height="1040" />
+    </state>
+    <state x="4182" y="216" key="new project wizard/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1622603850859" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/oneD/buoi13/Main.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
