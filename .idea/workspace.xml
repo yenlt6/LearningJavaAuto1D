@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="459c1634-d138-400f-b180-85160055f577" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/Buoi15/CountString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/Buoi15/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/Buoi15/PassWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/buoi14/BaiHocTrenLop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/buoi14/CalculateBMI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/buoi14/InputNumberException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/buoi14/RandomNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/oneD/Buoi15/CountStringTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oneD/buoi14/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oneD/buoi14/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oneD/buoi14/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/oneD/buoi14/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +51,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="oneD.Buoi15" />
       <recent name="oneD.buoi14" />
       <recent name="oneD.buoi13" />
       <recent name="oneD.buoi12" />
@@ -49,7 +60,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oneD.buoi14.Main" />
       <module name="ProjectLearningAuto" />
@@ -63,33 +74,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaiTapTest.checkStandardName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oneD.Buoi15.Main" />
       <module name="ProjectLearningAuto" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oneD.buoi13.*" />
+          <option name="PATTERN" value="oneD.Buoi15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="oneD.buoi13" />
-      <option name="MAIN_CLASS_NAME" value="oneD.buoi13.BaiTapTest" />
-      <option name="METHOD_NAME" value="checkStandardName" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountStringTest.checkChuyenKyTuSauDauCham2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProjectLearningAuto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oneD.Buoi15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="oneD.Buoi15" />
+      <option name="MAIN_CLASS_NAME" value="oneD.Buoi15.CountStringTest" />
+      <option name="METHOD_NAME" value="checkChuyenKyTuSauDauCham2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CountStringTest.checkcountCapitalizeLetter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProjectLearningAuto" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oneD.buoi14.*" />
+          <option name="PATTERN" value="oneD.Buoi15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="oneD.buoi14" />
-      <option name="MAIN_CLASS_NAME" value="oneD.buoi14.MainTest" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="PACKAGE_NAME" value="oneD.Buoi15" />
+      <option name="MAIN_CLASS_NAME" value="oneD.Buoi15.CountStringTest" />
+      <option name="METHOD_NAME" value="checkcountCapitalizeLetter" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -111,29 +135,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseNameTest.assertReverseCorrectly" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ProjectLearningAuto" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oneD.buoi12.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="oneD.buoi12" />
-      <option name="MAIN_CLASS_NAME" value="oneD.buoi12.ReverseNameTest" />
-      <option name="METHOD_NAME" value="assertReverseCorrectly" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.CountStringTest.checkChuyenKyTuSauDauCham2" />
+        <item itemvalue="JUnit.CountStringTest.checkcountCapitalizeLetter" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="JUnit.MainTest.test2" />
-        <item itemvalue="JUnit.BaiTapTest.checkStandardName" />
-        <item itemvalue="JUnit.MainTest.test1" />
-        <item itemvalue="JUnit.ReverseNameTest.assertReverseCorrectly" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623293861722</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Bai hoc buoi 14 ( ngay 10/6)">
+      <created>1623294391447</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1623294391447</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -175,30 +190,38 @@
     <option name="LAST_COMMIT_MESSAGE" value="Bai hoc buoi 14 ( ngay 10/6)" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="4430" y="115" key="CommitChangelistDialog2" timestamp="1623293859553">
+    <state x="4596" y="380" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1623719812687">
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
-    <state x="4430" y="115" key="CommitChangelistDialog2/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623293859553" />
-    <state width="1877" height="274" key="GridCell.Tab.0.bottom" timestamp="1623293867259">
+    <state x="4596" y="380" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623719812687" />
+    <state x="4430" y="115" key="CommitChangelistDialog2" timestamp="1623294390251">
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1622548909917" />
-    <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623293867259" />
-    <state width="1877" height="274" key="GridCell.Tab.0.center" timestamp="1623293867258">
+    <state x="4430" y="115" key="CommitChangelistDialog2/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623294390251" />
+    <state x="421" y="97" key="FileChooserDialogImpl" timestamp="1623342830933">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="97" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1623342830933" />
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom" timestamp="1623727102799">
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1622548909917" />
-    <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623293867258" />
-    <state width="1877" height="274" key="GridCell.Tab.0.left" timestamp="1623293867258">
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1623469662770" />
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623727102799" />
+    <state width="1877" height="274" key="GridCell.Tab.0.center" timestamp="1623727102798">
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1622548909916" />
-    <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623293867258" />
-    <state width="1877" height="274" key="GridCell.Tab.0.right" timestamp="1623293867258">
+    <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1623469662770" />
+    <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623727102798" />
+    <state width="1877" height="274" key="GridCell.Tab.0.left" timestamp="1623727102798">
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1622548909917" />
-    <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623293867258" />
+    <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1623469662770" />
+    <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623727102798" />
+    <state width="1877" height="274" key="GridCell.Tab.0.right" timestamp="1623727102799">
+      <screen x="3840" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1623469662770" />
+    <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623727102799" />
     <state width="1877" height="412" key="GridCell.Tab.1.bottom" timestamp="1623121727594">
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
@@ -215,11 +238,11 @@
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="412" key="GridCell.Tab.1.right/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623121727594" />
-    <state x="4571" y="224" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1623288615266">
+    <state x="4571" y="224" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1623722669226">
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
     <state x="2651" y="224" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1622547848905" />
-    <state x="4571" y="224" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623288615266" />
+    <state x="4571" y="224" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623722669226" />
     <state x="4182" y="216" key="new project wizard" timestamp="1622603850859">
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
