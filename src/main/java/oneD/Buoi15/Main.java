@@ -26,7 +26,7 @@ public class Main {
         String pass = sc.nextLine();
         if (pass.length() < 10) {
             System.out.println("mật khẩu yếu");
-        } else if (!pass.matches("^(?=.*?[A-Z])(?=.*?[a-z])(?=.*?[0-9])(?=.*?[#?!@$%^&*-]).{8,}$")) {
+        } else if (!pass.matches("^(?=.*?[A-Z])(?=.*?[a-z])(?=.*?[0-9])(?=.*?[#?!@$%^&*-]).{10,}$")) {
             System.out.println("mat khau chua du manh");
         }
     }
