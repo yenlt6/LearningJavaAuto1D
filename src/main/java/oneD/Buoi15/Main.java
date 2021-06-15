@@ -33,50 +33,30 @@ public class Main {
 
 //Viết chương trình nhập vào một số nguyên dương, kiểm tra số đó có là một tháng trong năm không. Nếu có thì in ra tháng đó có bao nhiêu ngày. (Xử lý exception đầy đủ)
 
-public static void inputNumber(){
-    Scanner sc = new Scanner(System.in);
-    System.out.println("Nhập mot so nguyen duong: ");
-    int number =0;
-    try {
-        number = sc.nextInt();
+    public static void inputNumber() {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Nhập mot so nguyen duong: ");
+        int number = 0;
+        try {
+            number = sc.nextInt();
 
-    }catch (Exception e){
-        System.out.println("số nhập vào không đúng định dạng, nó phải là dạng số");
-    }
-
-    if(number >0 && number <13){
-        System.out.println("Sô nhap vao la mot thang trong năm");
-        if(number==1 || number ==3 ||number ==5 || number ==7 || number ==8 || number ==10 || number ==12){
-            System.out.println("Thang " + number + " có 31 ngay");
-        } else if (number==4 || number ==6 ||number ==9 || number ==11){
-            System.out.println("Thang " + number + " có 30 ngay");
-        } else{
-            System.out.println("Thang " + number + " có 28 hoặc 29 ngay");
+        } catch (Exception e) {
+            System.out.println("số nhập vào không đúng định dạng, nó phải là dạng số");
         }
+
+        if (number > 0 && number < 13) {
+            System.out.println("Sô nhap vao la mot thang trong năm");
+            if (number == 1 || number == 3 || number == 5 || number == 7 || number == 8 || number == 10 || number == 12) {
+                System.out.println("Thang " + number + " có 31 ngay");
+            } else if (number == 4 || number == 6 || number == 9 || number == 11) {
+                System.out.println("Thang " + number + " có 30 ngay");
+            } else {
+                System.out.println("Thang " + number + " có 28 hoặc 29 ngay");
+            }
+        }
+
+
     }
 
 
-}
-
-
-
-//    public int inputNumber() throws InputNumberException {
-//        Scanner sc = new Scanner(System.in);
-//        int number = 0;
-//        boolean flag = false;
-//        while (flag == false){
-//            try {
-//                System.out.println("Nhập một số: ");
-//                number = Integer.valueOf(sc.nextLine());
-//                //sc.nextLine();
-//                if (number < 10 || number >50) throw new InputNumberException("Số cần trong khoảng 10->50");
-//                flag = true;
-//            }catch (NumberFormatException e){
-//                System.out.println("Lỗi");
-//                flag = false;
-//            }
-//        }
-//
-//        return number;
-//    }
 }

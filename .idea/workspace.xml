@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="459c1634-d138-400f-b180-85160055f577" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/Buoi15/CountString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/Buoi15/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/Buoi15/PassWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/buoi14/BaiHocTrenLop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/buoi14/CalculateBMI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/buoi14/InputNumberException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/buoi14/RandomNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/oneD/Buoi15/CountStringTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oneD/buoi14/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oneD/buoi14/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/oneD/buoi14/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/oneD/buoi14/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oneD/Buoi15/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oneD/Buoi15/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,22 +173,30 @@
       <option name="project" value="LOCAL" />
       <updated>1623294391447</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Bai kiem tra ngay 15/6">
+      <created>1623727133680</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1623727133680</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Bai hoc buoi 14 ( ngay 10/6)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bai hoc buoi 14 ( ngay 10/6)" />
+    <MESSAGE value="Bai kiem tra ngay 15/6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bai kiem tra ngay 15/6" />
   </component>
   <component name="WindowStateProjectService">
     <state x="4596" y="380" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1623719812687">
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
     <state x="4596" y="380" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623719812687" />
-    <state x="4430" y="115" key="CommitChangelistDialog2" timestamp="1623294390251">
+    <state x="4430" y="115" key="CommitChangelistDialog2" timestamp="1623727132332">
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
-    <state x="4430" y="115" key="CommitChangelistDialog2/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623294390251" />
+    <state x="4430" y="115" key="CommitChangelistDialog2/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623727132332" />
     <state x="421" y="97" key="FileChooserDialogImpl" timestamp="1623342830933">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
