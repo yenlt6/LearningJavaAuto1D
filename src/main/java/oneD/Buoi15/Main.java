@@ -11,11 +11,13 @@ public class Main {
         countString.vietHoaChuDauTienCach1(inputStr);
         String string = new String("You Only Live Once. But if You do it right. once is Enough");
         countString.vietHoaChuDauTienCach2(string);
+
+//        String inputStr = new String("You only live Once. but if You do it right. once is Enough");
         countString.chuyenKyTuSauDauCham2(inputStr);
 
-        inputPass();
-
-        inputNumber();
+//        inputPass();
+//
+//        inputNumber();
 
     }
 
