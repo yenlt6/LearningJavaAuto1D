@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="459c1634-d138-400f-b180-85160055f577" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/Buoi15/StringHandling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/Buoi16/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/Buoi16/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/Buoi16/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/Buoi16/Temp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oneD/Buoi15/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oneD/Buoi15/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oneD/Buoi16/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oneD/Buoi16/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +42,9 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -53,13 +57,26 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oneD.buoi14.Main" />
       <module name="ProjectLearningAuto" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="oneD.buoi14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oneD.Buoi16.Main" />
+      <module name="ProjectLearningAuto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oneD.Buoi16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,29 +129,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ProjectLearningAuto" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oneD.buoi14.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="oneD.buoi14" />
-      <option name="MAIN_CLASS_NAME" value="oneD.buoi14.MainTest" />
-      <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.CountStringTest.checkChuyenKyTuSauDauCham2" />
         <item itemvalue="JUnit.CountStringTest.checkcountCapitalizeLetter" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="JUnit.MainTest.test2" />
       </list>
     </recent_temporary>
   </component>
@@ -189,47 +190,63 @@
       <option name="project" value="LOCAL" />
       <updated>1623727161454</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Bai hoc buoi thu 16: Collection">
+      <created>1623893149933</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1623893149933</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Bai hoc buoi 14 ( ngay 10/6)" />
     <MESSAGE value="Bai kiem tra ngay 15/6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bai kiem tra ngay 15/6" />
+    <MESSAGE value="Bai hoc buoi thu 16: Collection" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bai hoc buoi thu 16: Collection" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="4392" y="179" key="#Project_Structure" timestamp="1623893829394">
+      <screen x="3840" y="0" width="1920" height="1040" />
+    </state>
+    <state x="4392" y="179" key="#Project_Structure/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623893829394" />
+    <state x="4605" y="237" key="#com.intellij.ide.util.MemberChooser" timestamp="1623898715264">
+      <screen x="3840" y="0" width="1920" height="1040" />
+    </state>
+    <state x="4605" y="237" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623898715264" />
     <state x="4596" y="380" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1623719812687">
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
     <state x="4596" y="380" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623719812687" />
-    <state x="4430" y="115" key="CommitChangelistDialog2" timestamp="1623727160446">
+    <state x="4430" y="115" key="CommitChangelistDialog2" timestamp="1623893148733">
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
-    <state x="4430" y="115" key="CommitChangelistDialog2/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623727160446" />
+    <state x="4430" y="115" key="CommitChangelistDialog2/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623893148733" />
     <state x="421" y="97" key="FileChooserDialogImpl" timestamp="1623342830933">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="97" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1623342830933" />
-    <state width="1877" height="274" key="GridCell.Tab.0.bottom" timestamp="1623842200447">
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom" timestamp="1623899088732">
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1623842200447" />
-    <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623732610922" />
-    <state width="1877" height="274" key="GridCell.Tab.0.center" timestamp="1623842200447">
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623899088732" />
+    <state width="1877" height="274" key="GridCell.Tab.0.center" timestamp="1623899088732">
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1623842200447" />
-    <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623732610922" />
-    <state width="1877" height="274" key="GridCell.Tab.0.left" timestamp="1623842200447">
+    <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623899088732" />
+    <state width="1877" height="274" key="GridCell.Tab.0.left" timestamp="1623899088731">
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1623842200447" />
-    <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623732610922" />
-    <state width="1877" height="274" key="GridCell.Tab.0.right" timestamp="1623842200447">
+    <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623899088731" />
+    <state width="1877" height="274" key="GridCell.Tab.0.right" timestamp="1623899088732">
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1623842200447" />
-    <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623732610922" />
+    <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623899088732" />
     <state width="1877" height="412" key="GridCell.Tab.1.bottom" timestamp="1623121727594">
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
