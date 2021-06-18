@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="459c1634-d138-400f-b180-85160055f577" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oneD/Buoi16/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oneD/Buoi16/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oneD/Buoi16/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oneD/Buoi16/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oneD/Buoi16/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oneD/Buoi16/Product.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623899127577</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Bài tập trên lớp: Buoi 16">
+      <created>1623900125218</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1623900125218</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -208,49 +218,51 @@
     <MESSAGE value="Bai kiem tra ngay 15/6" />
     <MESSAGE value="Bai hoc buoi thu 16: Collection" />
     <MESSAGE value="Bài tập trên lớp: &#10;Quản lý danh sách sản phẩm bao gồm có mã sản phẩm, tên sản phẩm, số lượng , giá bán.&#10;Tiến hành thêm thông tin sản phẩm , tìm kiêm sản phẩm theo tên, sửa sản phẩm, xoá sản phẩm" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bài tập trên lớp: &#10;Quản lý danh sách sản phẩm bao gồm có mã sản phẩm, tên sản phẩm, số lượng , giá bán.&#10;Tiến hành thêm thông tin sản phẩm , tìm kiêm sản phẩm theo tên, sửa sản phẩm, xoá sản phẩm" />
+    <MESSAGE value="Bài tập trên lớp: Buoi 16" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bài tập trên lớp: Buoi 16" />
   </component>
   <component name="WindowStateProjectService">
     <state x="4392" y="179" key="#Project_Structure" timestamp="1623893829394">
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
     <state x="4392" y="179" key="#Project_Structure/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623893829394" />
-    <state x="4605" y="237" key="#com.intellij.ide.util.MemberChooser" timestamp="1623898715264">
+    <state x="4605" y="237" key="#com.intellij.ide.util.MemberChooser" timestamp="1624001140504">
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
-    <state x="4605" y="237" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623898715264" />
+    <state x="4605" y="237" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1624001140504" />
+    <state x="510" y="85" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1623944234492" />
     <state x="4596" y="380" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1623719812687">
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
     <state x="4596" y="380" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623719812687" />
-    <state x="4430" y="115" key="CommitChangelistDialog2" timestamp="1623899126211">
+    <state x="4430" y="115" key="CommitChangelistDialog2" timestamp="1623900124312">
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
-    <state x="4430" y="115" key="CommitChangelistDialog2/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623899126211" />
+    <state x="4430" y="115" key="CommitChangelistDialog2/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623900124312" />
     <state x="421" y="97" key="FileChooserDialogImpl" timestamp="1623342830933">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="97" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1623342830933" />
-    <state width="1877" height="274" key="GridCell.Tab.0.bottom" timestamp="1623899136649">
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom" timestamp="1624003049758">
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1623842200447" />
-    <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623899136649" />
-    <state width="1877" height="274" key="GridCell.Tab.0.center" timestamp="1623899136648">
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1624003049758" />
+    <state width="1877" height="274" key="GridCell.Tab.0.center" timestamp="1624003049757">
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1623842200447" />
-    <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623899136648" />
-    <state width="1877" height="274" key="GridCell.Tab.0.left" timestamp="1623899136648">
+    <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1624003049757" />
+    <state width="1877" height="274" key="GridCell.Tab.0.left" timestamp="1624003049757">
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1623842200447" />
-    <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623899136648" />
-    <state width="1877" height="274" key="GridCell.Tab.0.right" timestamp="1623899136648">
+    <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1624003049757" />
+    <state width="1877" height="274" key="GridCell.Tab.0.right" timestamp="1624003049758">
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1623842200447" />
-    <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623899136648" />
+    <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1624003049758" />
     <state width="1877" height="412" key="GridCell.Tab.1.bottom" timestamp="1623121727594">
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
