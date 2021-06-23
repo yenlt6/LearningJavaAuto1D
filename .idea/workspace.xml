@@ -2,36 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="459c1634-d138-400f-b180-85160055f577" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/Buoi17/AbstractClassA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/Buoi17/ClassB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/Buoi17/Employees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/Buoi17/GiangVien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/Buoi17/HardWorkPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/Buoi17/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/Buoi17/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/Buoi17/SinhVien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/Buoi18/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/BaiTapBuoiHoc17/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/BaiTapBuoiHoc17/ElectricCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/BaiTapBuoiHoc17/GasCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/BaiTapBuoiHoc17/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/Buoi17/ClassC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/Buoi17/ClassD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/Buoi17/InterfaceClassA.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/oneD/buoi12/AssertExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/oneD/buoi12/AssertExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/oneD/buoi12/Caculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/oneD/buoi12/Caculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/oneD/buoi12/ExampleJavaClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/oneD/buoi12/ExampleJavaClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/oneD/buoi12/ReverseName.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/oneD/buoi12/ReverseName.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/oneD/buoi13/BaiTap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/oneD/buoi13/BaiTap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/oneD/buoi13/Example.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/oneD/buoi13/Example.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/oneD/buoi13/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/oneD/buoi13/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/oneD/buoi14/AgeCheckingException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/oneD/buoi14/AgeCheckingException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/oneD/buoi14/ExceptionExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/oneD/buoi14/ExceptionExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/oneD/buoi14/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/oneD/buoi14/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/oneD/buoi14/WeightCheckingException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/oneD/buoi14/WeightCheckingException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/oneD/buoi12/AssertExampleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/oneD/buoi12/AssertExampleTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/oneD/buoi12/CaculatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/oneD/buoi12/CaculatorTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/oneD/buoi12/ReverseNameTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/oneD/buoi12/ReverseNameTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/oneD/buoi13/BaiTapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/oneD/buoi13/BaiTapTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/oneD/buoi14/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/oneD/buoi14/MainTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oneD/Buoi17/GiangVien.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oneD/Buoi17/GiangVien.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oneD/Buoi17/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oneD/Buoi17/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +47,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../javaThayCuong/LearnJava/12_Collection" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.3402299" />
@@ -84,7 +64,20 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oneD.BaiTapBuoiHoc17.Main" />
+      <module name="ProjectLearningAuto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oneD.BaiTapBuoiHoc17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oneD.Buoi16.Main" />
       <module name="ProjectLearningAuto" />
@@ -140,29 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountStringTest.checkcountCapitalizeLetter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ProjectLearningAuto" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oneD.Buoi15.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="oneD.Buoi15" />
-      <option name="MAIN_CLASS_NAME" value="oneD.Buoi15.CountStringTest" />
-      <option name="METHOD_NAME" value="checkcountCapitalizeLetter" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.CountStringTest.checkChuyenKyTuSauDauCham2" />
-        <item itemvalue="JUnit.CountStringTest.checkcountCapitalizeLetter" />
       </list>
     </recent_temporary>
   </component>
@@ -245,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624003120112</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Bài tập trên lớp: Buoi 16">
+      <created>1624440668503</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1624440668503</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -261,19 +244,19 @@
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
     <state x="4392" y="179" key="#Project_Structure/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623893829394" />
-    <state x="4605" y="237" key="#com.intellij.ide.util.MemberChooser" timestamp="1624439560683">
-      <screen x="3840" y="0" width="1920" height="1040" />
+    <state x="510" y="85" key="#com.intellij.ide.util.MemberChooser" timestamp="1624460739834">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="4605" y="237" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1624439560683" />
-    <state x="510" y="85" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1623944234492" />
+    <state x="4605" y="237" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1624444978924" />
+    <state x="510" y="85" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1624460739834" />
     <state x="4596" y="380" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1623719812687">
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
     <state x="4596" y="380" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623719812687" />
-    <state x="4430" y="115" key="CommitChangelistDialog2" timestamp="1624003117928">
+    <state x="4430" y="115" key="CommitChangelistDialog2" timestamp="1624440667570">
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
-    <state x="4430" y="115" key="CommitChangelistDialog2/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1624003117928" />
+    <state x="4430" y="115" key="CommitChangelistDialog2/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1624440667570" />
     <state x="4472" y="148" key="FileChooserDialogImpl" timestamp="1624423925765">
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
@@ -281,30 +264,34 @@
     <state x="2552" y="148" key="FileChooserDialogImpl/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1624418438900" />
     <state x="4472" y="148" key="FileChooserDialogImpl/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1624423925765" />
     <state x="421" y="97" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1624371526327" />
-    <state width="1877" height="327" key="GridCell.Tab.0.bottom" timestamp="1624439734856">
-      <screen x="3840" y="0" width="1920" height="1040" />
+    <state width="1237" height="188" key="GridCell.Tab.0.bottom" timestamp="1624461319611">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1623842200447" />
     <state width="1877" height="272" key="GridCell.Tab.0.bottom/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1624425360740" />
-    <state width="1877" height="327" key="GridCell.Tab.0.bottom/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1624439734856" />
-    <state width="1877" height="327" key="GridCell.Tab.0.center" timestamp="1624439734856">
-      <screen x="3840" y="0" width="1920" height="1040" />
+    <state width="1877" height="327" key="GridCell.Tab.0.bottom/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1624448647735" />
+    <state width="1237" height="188" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1624461319611" />
+    <state width="1237" height="188" key="GridCell.Tab.0.center" timestamp="1624461319611">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1623842200447" />
     <state width="1877" height="272" key="GridCell.Tab.0.center/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1624425360740" />
-    <state width="1877" height="327" key="GridCell.Tab.0.center/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1624439734856" />
-    <state width="1877" height="327" key="GridCell.Tab.0.left" timestamp="1624439734856">
-      <screen x="3840" y="0" width="1920" height="1040" />
+    <state width="1877" height="327" key="GridCell.Tab.0.center/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1624448647735" />
+    <state width="1237" height="188" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1624461319611" />
+    <state width="1237" height="188" key="GridCell.Tab.0.left" timestamp="1624461319611">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1623842200447" />
     <state width="1877" height="272" key="GridCell.Tab.0.left/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1624425360740" />
-    <state width="1877" height="327" key="GridCell.Tab.0.left/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1624439734856" />
-    <state width="1877" height="327" key="GridCell.Tab.0.right" timestamp="1624439734856">
-      <screen x="3840" y="0" width="1920" height="1040" />
+    <state width="1877" height="327" key="GridCell.Tab.0.left/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1624448647735" />
+    <state width="1237" height="188" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1624461319611" />
+    <state width="1237" height="188" key="GridCell.Tab.0.right" timestamp="1624461319611">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1623842200447" />
     <state width="1877" height="272" key="GridCell.Tab.0.right/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1624425360740" />
-    <state width="1877" height="327" key="GridCell.Tab.0.right/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1624439734856" />
+    <state width="1877" height="327" key="GridCell.Tab.0.right/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1624448647735" />
+    <state width="1237" height="188" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1624461319611" />
     <state width="1877" height="412" key="GridCell.Tab.1.bottom" timestamp="1623121727594">
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
@@ -343,6 +330,12 @@
           <url>file://$PROJECT_DIR$/src/main/java/oneD/buoi13/Main.java</url>
           <line>14</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/main/java/oneD/BaiTapBuoiHoc17/Car.java</url>
+          <line>7</line>
+          <properties field="year" class="oneD.BaiTapBuoiHoc17.Car" />
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

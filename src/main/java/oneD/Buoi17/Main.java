@@ -8,7 +8,7 @@ public class Main {
         System.out.println("Hello Yến");
         LocalDate a = LocalDate.of(1970, 11, 02);
         System.out.println("=====" + a);
-        AbstractClassA abstractClassA = new ClassB(15,"Nhân Viên Lập Trình Cao Cấp");
+        ClassB abstractClassA = new ClassB(15,"Nhân Viên Lập Trình Cao Cấp");
 
 
         abstractClassA.id = 1111;
@@ -16,6 +16,10 @@ public class Main {
         abstractClassA.method1();
         abstractClassA.method2();
         System.out.println("In ra: " + abstractClassA);
+
+
+        ClassC classC = new ClassC();
+        classC.method2();
 
 
 
