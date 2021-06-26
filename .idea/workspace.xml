@@ -4,32 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="459c1634-d138-400f-b180-85160055f577" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="459c1634-d138-400f-b180-85160055f577" name="Default Changelist" comment="Bài tập trên lớp: Buoi 19">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/oneD/Buoi19/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oneD/Buoi19/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/oneD/Buoi19/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oneD/Buoi19/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/oneD/buoi14/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/oneD/buoi14/MainTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/ProjectLearningAuto.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/oneD/buoi12/AssertExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/oneD/buoi12/AssertExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/oneD/buoi12/Caculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/oneD/buoi12/Caculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/oneD/buoi12/ExampleJavaClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/oneD/buoi12/ExampleJavaClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/oneD/buoi12/ReverseName.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/oneD/buoi12/ReverseName.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/oneD/buoi13/BaiTap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/oneD/buoi13/BaiTap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/oneD/buoi13/Example.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/oneD/buoi13/Example.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/oneD/buoi13/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/oneD/buoi13/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/oneD/buoi14/AgeCheckingException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/oneD/buoi14/AgeCheckingException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/oneD/buoi14/ExceptionExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/oneD/buoi14/ExceptionExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/oneD/buoi14/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/oneD/buoi14/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/oneD/buoi14/WeightCheckingException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/oneD/buoi14/WeightCheckingException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/oneD/buoi12/AssertExampleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/oneD/buoi12/AssertExampleTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/oneD/buoi12/CaculatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/oneD/buoi12/CaculatorTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/oneD/buoi12/ReverseNameTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/oneD/buoi12/ReverseNameTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/oneD/buoi13/BaiTapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/oneD/buoi13/BaiTapTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/oneD/buoi14/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/oneD/buoi14/MainTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -211,7 +189,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1622547691492</updated>
-      <workItem from="1624691973731" duration="8339000" />
+      <workItem from="1624691973731" duration="9809000" />
     </task>
     <task id="LOCAL-00001" summary="Bai hoc buoi 14 ( ngay 10/6)">
       <created>1623293861721</created>
@@ -297,7 +275,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624673856057</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Bài tập trên lớp: Buoi 19">
+      <created>1624700334196</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1624700334196</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

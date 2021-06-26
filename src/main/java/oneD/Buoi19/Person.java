@@ -20,7 +20,7 @@ public class Person {
 
     @Override
     public String toString() {
-        return "- " + name + " - " + nationality + " - " + (double) age;
+        return "- " + name + " - " + nationality + " - " + age;
     }
 
     public void setName(String name) {
@@ -71,13 +71,12 @@ public class Person {
 
     public static void baiTap1a(ArrayList<Person> people) {
         //Bài Tập 1: 1.1 Đếm số người theo từng quốc tịch in ra màn hình
-
+        System.out.println("======= Bài Tập 1a =======");
         LinkedList<String> list = new LinkedList<String>();
 
         for (int i = 0; i < people.size(); i++) {
             list.add(people.get(i).nationality);
         }
-
         System.out.println("danh sach toàn bộ quốc tịch : " + list);
         Map<String, Integer> map = new HashMap<String, Integer>();
 
@@ -97,24 +96,25 @@ public class Person {
     }
 
     public static void baiTap1b(ArrayList<Person> people) {
-        //Sắp xếp theo tên những người trên 25 tuổi rồi in ra màn hình
-
-
-        Iterator<Person> iter = people.iterator();
+        System.out.println("======= Bài Tập 1b =======");
+        System.out.println("Sắp xếp theo tên những người trên 25 tuổi rồi in ra màn hình:");
+        ArrayList<Person> people1 = new ArrayList<>();
+        people1.addAll(people);
+        Iterator<Person> iter = people1.iterator();
         while (iter.hasNext()) {
             Person per = iter.next();
             if (per.age < 25 || per.age == 25) {
                 iter.remove();
             }
         }
-        System.out.println("Sắp xếp theo tên những người trên 25 tuổi rồi in ra màn hình:");
-        people.stream().sorted(Comparator.comparing(Person::getAge)).forEach(System.out::println);
+        people1.stream().sorted(Comparator.comparing(Person::getAge)).forEach(System.out::println);
 //    for (Person p : people) {
 //        System.out.println(p);
 //    }
     }
 
     public static void baiTap1c(ArrayList<Person> people) {
+        System.out.println("======= Bài Tập 1c =======");
         //Tính trung bình tuổi của người theo từng quốc gia
         ArrayList<Person> people1 = new ArrayList<>();
         people1.addAll(people);
@@ -126,7 +126,7 @@ public class Person {
         }
 
         List<String> set = new ArrayList<>(new HashSet<>(list));
-     //List<String> listWithoutDuplicates = list.stream().distinct().collect(Collectors.toList());
+        //List<String> listWithoutDuplicates = list.stream().distinct().collect(Collectors.toList());
         System.out.println("danh sach toàn bộ quốc tịch : " + list);
         System.out.println("danh sach Ten cac quoc gia ko lập lại : " + set);
 
@@ -153,6 +153,24 @@ public class Person {
         for (String key : set1) {
             System.out.println(key + ": " + mapNaPeo.get(key));
         }
+
+    }
+
+    public static void baiTap1d(ArrayList<Person> people) {
+        System.out.println("======= Bài Tập 1d =======");
+        System.out.println("In ra màn hình đánh giá tuổi mỗi người");
+        for (int i = 0; i < people.size(); i++) {
+            if (people.get(i).age < 20) {
+                System.out.println(people.get(i) + "- nổi loạn");
+            } else if (people.get(i).age >= 20 && people.get(i).age <= 30) {
+                System.out.println(people.get(i) + "- việc làm");
+            } else if (people.get(i).age >= 31 && people.get(i).age <= 40) {
+                System.out.println(people.get(i) + "- Sự nghiệp");
+            } else if (people.get(i).age >= 41) {
+                System.out.println(people.get(i) + "- Hưởng thụ");
+            }
+        }
+
     }
 
 

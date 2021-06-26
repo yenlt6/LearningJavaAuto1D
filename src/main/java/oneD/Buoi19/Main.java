@@ -8,9 +8,10 @@ public class Main {
         Person per = new Person();
         ArrayList<Person> people = new ArrayList<>();
         people.addAll(per.createPersonList());
-//        Person.baiTap1a(people);
-//        Person.baiTap1b(people);
+        Person.baiTap1a(people);
+        Person.baiTap1b(people);
         Person.baiTap1c(people);
+        Person.baiTap1d(people);
     }
 
 
