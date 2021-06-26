@@ -1,10 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="459c1634-d138-400f-b180-85160055f577" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/oneD/Buoi19/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oneD/Buoi19/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/oneD/Buoi19/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oneD/Buoi19/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/oneD/buoi14/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/oneD/buoi14/MainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/ProjectLearningAuto.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oneD/buoi12/AssertExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/oneD/buoi12/AssertExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oneD/buoi12/Caculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/oneD/buoi12/Caculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oneD/buoi12/ExampleJavaClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/oneD/buoi12/ExampleJavaClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oneD/buoi12/ReverseName.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/oneD/buoi12/ReverseName.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oneD/buoi13/BaiTap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/oneD/buoi13/BaiTap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oneD/buoi13/Example.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/oneD/buoi13/Example.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oneD/buoi13/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/oneD/buoi13/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oneD/buoi14/AgeCheckingException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/oneD/buoi14/AgeCheckingException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oneD/buoi14/ExceptionExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/oneD/buoi14/ExceptionExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oneD/buoi14/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/oneD/buoi14/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oneD/buoi14/WeightCheckingException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/oneD/buoi14/WeightCheckingException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/oneD/buoi12/AssertExampleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/oneD/buoi12/AssertExampleTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/oneD/buoi12/CaculatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/oneD/buoi12/CaculatorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/oneD/buoi12/ReverseNameTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/oneD/buoi12/ReverseNameTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/oneD/buoi13/BaiTapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/oneD/buoi13/BaiTapTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/oneD/buoi14/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/oneD/buoi14/MainTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,15 +57,18 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../javaThayCuong/LearnJava" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.3402299" />
@@ -86,7 +114,7 @@
     </configuration>
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oneD.Buoi19.Main" />
-      <module name="ProjectLearningAuto" />
+      <module name="LearningJava1D" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="oneD.Buoi19.*" />
@@ -119,6 +147,17 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -161,6 +200,7 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -171,6 +211,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1622547691492</updated>
+      <workItem from="1624691973731" duration="8339000" />
     </task>
     <task id="LOCAL-00001" summary="Bai hoc buoi 14 ( ngay 10/6)">
       <created>1623293861721</created>
@@ -249,8 +290,29 @@
       <option name="project" value="LOCAL" />
       <updated>1624633050226</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Bài tập trên lớp: Buoi 19">
+      <created>1624673856057</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1624673856057</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Bai hoc buoi 14 ( ngay 10/6)" />
@@ -258,102 +320,8 @@
     <MESSAGE value="Bai hoc buoi thu 16: Collection" />
     <MESSAGE value="Bài tập trên lớp: &#10;Quản lý danh sách sản phẩm bao gồm có mã sản phẩm, tên sản phẩm, số lượng , giá bán.&#10;Tiến hành thêm thông tin sản phẩm , tìm kiêm sản phẩm theo tên, sửa sản phẩm, xoá sản phẩm" />
     <MESSAGE value="Bài tập trên lớp: Buoi 16" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bài tập trên lớp: Buoi 16" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="4392" y="179" key="#Project_Structure" timestamp="1623893829394">
-      <screen x="3840" y="0" width="1920" height="1040" />
-    </state>
-    <state x="4392" y="179" key="#Project_Structure/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623893829394" />
-    <state x="510" y="85" key="#com.intellij.ide.util.MemberChooser" timestamp="1624639404225">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="4605" y="237" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1624444978924" />
-    <state x="510" y="85" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1624639404225" />
-    <state x="4596" y="380" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1623719812687">
-      <screen x="3840" y="0" width="1920" height="1040" />
-    </state>
-    <state x="4596" y="380" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623719812687" />
-    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1624633049163">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="4430" y="115" key="CommitChangelistDialog2/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1624440667570" />
-    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1624633049163" />
-    <state x="421" y="97" key="FileChooserDialogImpl" timestamp="1624638654221">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="2552" y="148" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1624512914208" />
-    <state x="4472" y="148" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1624501093596" />
-    <state x="2552" y="148" key="FileChooserDialogImpl/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1624418438900" />
-    <state x="4472" y="148" key="FileChooserDialogImpl/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1624423925765" />
-    <state x="421" y="97" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1624638654221" />
-    <state width="1237" height="187" key="GridCell.Tab.0.bottom" timestamp="1624665222897">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1877" height="326" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1624605225099" />
-    <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1623842200447" />
-    <state width="1877" height="272" key="GridCell.Tab.0.bottom/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1624425360740" />
-    <state width="1877" height="327" key="GridCell.Tab.0.bottom/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1624448647735" />
-    <state width="1237" height="187" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1624665222897" />
-    <state width="1237" height="187" key="GridCell.Tab.0.center" timestamp="1624665222897">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1877" height="326" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1624605225099" />
-    <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1623842200447" />
-    <state width="1877" height="272" key="GridCell.Tab.0.center/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1624425360740" />
-    <state width="1877" height="327" key="GridCell.Tab.0.center/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1624448647735" />
-    <state width="1237" height="187" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1624665222897" />
-    <state width="1237" height="187" key="GridCell.Tab.0.left" timestamp="1624665222897">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1877" height="326" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1624605225099" />
-    <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1623842200447" />
-    <state width="1877" height="272" key="GridCell.Tab.0.left/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1624425360740" />
-    <state width="1877" height="327" key="GridCell.Tab.0.left/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1624448647735" />
-    <state width="1237" height="187" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1624665222897" />
-    <state width="1237" height="187" key="GridCell.Tab.0.right" timestamp="1624665222897">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1877" height="326" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1624605225099" />
-    <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1623842200447" />
-    <state width="1877" height="272" key="GridCell.Tab.0.right/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1624425360740" />
-    <state width="1877" height="327" key="GridCell.Tab.0.right/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1624448647735" />
-    <state width="1237" height="187" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1624665222897" />
-    <state width="1877" height="412" key="GridCell.Tab.1.bottom" timestamp="1623121727594">
-      <screen x="3840" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="412" key="GridCell.Tab.1.bottom/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623121727594" />
-    <state width="1877" height="412" key="GridCell.Tab.1.center" timestamp="1623121727594">
-      <screen x="3840" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="412" key="GridCell.Tab.1.center/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623121727594" />
-    <state width="1877" height="412" key="GridCell.Tab.1.left" timestamp="1623121727594">
-      <screen x="3840" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="412" key="GridCell.Tab.1.left/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623121727594" />
-    <state width="1877" height="412" key="GridCell.Tab.1.right" timestamp="1623121727594">
-      <screen x="3840" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="412" key="GridCell.Tab.1.right/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623121727594" />
-    <state x="2628" y="232" key="RollbackChangesDialog" timestamp="1624602651657">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2628" y="232" key="RollbackChangesDialog/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1624602651657" />
-    <state x="2201" y="0" key="SettingsEditor" timestamp="1624602670172">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2201" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1624602670172" />
-    <state x="2201" y="0" key="SettingsEditor/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1624425394644" />
-    <state x="4121" y="0" key="SettingsEditor/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1624424016239" />
-    <state x="4571" y="224" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1623722669226">
-      <screen x="3840" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2651" y="224" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1622547848905" />
-    <state x="4571" y="224" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1623722669226" />
-    <state x="4182" y="216" key="new project wizard" timestamp="1622603850859">
-      <screen x="3840" y="0" width="1920" height="1040" />
-    </state>
-    <state x="4182" y="216" key="new project wizard/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1622603850859" />
+    <MESSAGE value="Bài tập trên lớp: Buoi 19" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bài tập trên lớp: Buoi 19" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
