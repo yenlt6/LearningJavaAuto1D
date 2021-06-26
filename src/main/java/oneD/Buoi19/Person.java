@@ -13,10 +13,30 @@ public class Person {
 
     @Override
     public String toString() {
-        return "Person{" +
-                "name='" + name + '\'' +
-                ", nationality='" + nationality + '\'' +
-                ", age=" + age +
-                '}';
+        return "- " + name + " - " + nationality + " - "+ age;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public void setNationality(String nationality) {
+        this.nationality = nationality;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public String getNationality() {
+        return nationality;
+    }
+
+    public int getAge() {
+        return age;
     }
 }
