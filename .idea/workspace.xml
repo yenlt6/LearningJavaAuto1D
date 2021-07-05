@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="459c1634-d138-400f-b180-85160055f577" name="Default Changelist" comment="Bài tập trên lớp: Buoi 19">
-      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/Buoi19/PersonMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/Buoi23/01.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/Buoi23/02.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/Buoi23/BaiTapSQL0307.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/Buoi23/LearnMySQL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oneD/Buoi23/person.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oneD/Buoi16/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oneD/Buoi16/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oneD/Buoi19/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oneD/Buoi19/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oneD/Buoi19/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oneD/Buoi19/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oneD/Buoi23/BaiTapSQL0307.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oneD/Buoi23/BaiTapSQL0307.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -241,7 +232,7 @@
       <workItem from="1625240420377" duration="2656000" />
       <workItem from="1625243905718" duration="2139000" />
       <workItem from="1625284319140" duration="609000" />
-      <workItem from="1625473206683" duration="6759000" />
+      <workItem from="1625473206683" duration="6925000" />
     </task>
     <task id="LOCAL-00001" summary="Bai hoc buoi 14 ( ngay 10/6)">
       <created>1623293861721</created>
@@ -341,7 +332,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624701802669</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Bài tập trên lớp: Buoi 19">
+      <created>1625483254313</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1625483254313</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
