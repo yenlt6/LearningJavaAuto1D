@@ -10,7 +10,6 @@ public class Person {
     public Person() {
     }
 
-    ;
 
     public Person(String name, String nationality, int age) {
         this.name = name;
@@ -69,6 +68,95 @@ public class Person {
     }
 
 
+
+
+    public static void countPersonInCountry(List<Person> people) {
+        Map<String,Integer> map = new HashMap<String,Integer>();
+        for(int i=0; i<people.size();i++){
+            String key = people.get(i).getNationality();
+            if(!map.containsKey(key)){
+                map.put(key,1);
+            }else{
+                int value = map.get(key);
+                value++;
+                map.put(key,value);
+            }
+            }
+        System.out.println("Số người theo từng quốc gia và in ra màn hình:");
+        Set<String> set = map.keySet();
+        for (String key : set) {
+            System.out.println(key + ": " + map.get(key));
+        }
+        }
+
+    public static void sortPersonHaveAgeBiggerThan25YearsOld(List<Person> persons) {
+        List<Person> sortedList = new ArrayList<>();
+        for (Person p : persons) {
+            if (p.getAge() > 25) {
+                sortedList.add(p);
+            }
+        }
+        sortedList.sort(Comparator.comparing(Person::getName)
+                .thenComparing(Person::getAge));
+        for (Person p : sortedList) {
+            System.out.println(p);
+        }
+        //C2 Java Stream
+//        sortedList.stream().sorted(Comparator.comparing(Person::getName)).forEach(System.out::println);
+    }
+
+    public void calAverageAgeByNationality(List<Person> persons) {
+        Map<String, List<Integer>> map = groupAgeByCountry(persons);
+        Map<String, Double> map2 = new HashMap<>();
+        for (String key : map.keySet()) {
+            List<Integer> values = map.get(key);
+            int sum = 0;
+            for (Integer age : values) {
+                sum += age;
+            }
+            double averageAge = calAvg(sum, values.size());
+            double value = Math.floor(averageAge * 10) / 10;
+            map2.put(key, value);
+        }
+        printMap2(map2);
+    }
+
+    private void printMap2(Map<String, Double> map) {
+        for (String key : map.keySet()) {
+            System.out.println(key + ": " + map.get(key));
+        }
+    }
+    private double calAvg(int sum, int n) {
+        double avg = (double) sum / n;
+        return avg;
+    }
+
+
+
+    public Map<String, List<Integer>> groupAgeByCountry(List<Person> persons) {
+        Map<String, List<Integer>> map = new HashMap<>();
+        for (Person p : persons) {
+            String key = p.getNationality();
+            List<Integer> values = new ArrayList<>();
+            if (!map.containsKey(key)) {
+                values.add(p.getAge());
+                map.put(key, values);
+            } else {
+                values = map.get(key);
+                values.add(p.getAge());
+//                map.put(key, values);
+            }
+        }
+        System.out.println("YYYYYYYY");
+        Set<String> set = map.keySet();
+        for (String key : set) {
+            System.out.println(key + ": " + map.get(key));
+        }
+        return map;
+    }
+
+
+
     public static void baiTap1a(ArrayList<Person> people) {
         //Bài Tập 1: 1.1 Đếm số người theo từng quốc tịch in ra màn hình
         System.out.println("======= Bài Tập 1a =======");
@@ -95,7 +183,8 @@ public class Person {
         }
     }
 
-    public static void baiTap1b(ArrayList<Person> people) {
+
+        public static void baiTap1b(List<Person> people) {
         System.out.println("======= Bài Tập 1b =======");
         System.out.println("Sắp xếp theo tên những người trên 25 tuổi rồi in ra màn hình:");
         ArrayList<Person> people1 = new ArrayList<>();
@@ -107,7 +196,8 @@ public class Person {
                 iter.remove();
             }
         }
-        people1.stream().sorted(Comparator.comparing(Person::getAge)).forEach(System.out::println);
+//        people1.stream().sorted(Comparator.comparing(Person::getAge)).forEach(System.out::println);
+        people1.stream().sorted(Comparator.comparing(Person::getName)).forEach(System.out::println);
 //    for (Person p : people) {
 //        System.out.println(p);
 //    }
@@ -142,7 +232,7 @@ public class Person {
                     averageAge = averageAge + people1.get(i).age;
                 }
             }
-            float f = averageAge / count;
+            float f = averageAge*1.0f/count;
             String average = String.format("%.01f", f);
             mapNaPeo.put(key, average);
             count = 0;
@@ -157,7 +247,8 @@ public class Person {
     }
 
     public static void baiTap1d(ArrayList<Person> people) {
-        System.out.println("======= Bài Tập 1d =======");
+        System.out.println("======= Bài Tập 1d" +
+                " =======");
         System.out.println("In ra màn hình đánh giá tuổi mỗi người");
         for (int i = 0; i < people.size(); i++) {
             if (people.get(i).age < 20) {
